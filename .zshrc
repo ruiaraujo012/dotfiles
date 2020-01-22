@@ -139,6 +139,12 @@ alias ns="npm run start"
 alias nrb="npm run build"
 alias nrl="npm run lint"
 
+alias yrs="yarn run serve"
+alias ys="yarn run start"
+alias yrb="yarn run build"
+alias yrl="yarn run lint"
+
+
 # GIT Aliases
 alias gcl='git clone'
 alias ga='git add'

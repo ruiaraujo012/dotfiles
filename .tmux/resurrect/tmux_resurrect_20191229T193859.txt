@@ -1,4 +1,0 @@
-pane	0	0	:htop	1	:*	0	:/home/rui-work	0	zsh	:
-pane	0	0	:htop	1	:*	1	:/home/rui-work	1	htop	:htop
-window	0	0	1	:*	1fd4,106x57,0,0[106x28,0,0,0,106x28,0,29,1]
-state	0	
