@@ -7,4 +7,4 @@ To have icons on i3 install
 
 #### To reset scale for high resolution dpi edit Exec to this on "sudo vim /usr/share/applications/google-chrome.desktop"
 
-Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=0 %U
+Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1 %U
